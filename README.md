@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonTotti&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" dir="auto">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonTotti&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/RobsonTotti">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=RobsonTotti&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonTotti&layout=compact&langs_count=10&count_private=true&theme=tokyonight" />
+</a>
+</div>
