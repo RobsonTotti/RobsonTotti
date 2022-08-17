@@ -1,4 +1,3 @@
-
 <div align="left" dir="auto">
   <a href="https://wakatime.com/@99ddd934-bce9-4c7c-992d-a3f2d1a1b4c3">
     <img
@@ -6,11 +5,8 @@
       alt="Total time coded since Aug 15 2022"
     />
   </a>
-	<div style="font-size: 8pt;">
-		Total time coded since Aug 15 2022
-	</div>
 </div>
-<br /><br />
+
 <div align="left" dir="auto">
   <a href="https://github.com/RobsonTotti">
     <img
@@ -24,19 +20,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonTotti&layout=compact&langs_count=10&count_private=true&theme=tokyonight&count_private=true"
     />
   </a>
-  <br />
-  <br />
 
-  <!-- <br />
-  <br />
-  <a href="https://wakatime.com/@robsontotti">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=robsontotti"
-    />
-  </a> -->
 
-  <h3 align="left">Repositories</h3>
+##  <h3 align="left">Repositories</h3>
   <p align="left">
     <a href="https://github.com/RobsonTotti/lorem-ipsum-generator">
       <img
@@ -46,7 +32,8 @@
     </a>
   </p>
 </div>
-<h3 align="left">Languages and Tools</h3>
+
+## <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
@@ -357,7 +344,8 @@
     />
   </a>
 </p>
-<h3 align="left">Social</h3>
+
+## <h3 align="left">Social</h3>
 <div>
   <a href="mailto:robsontotti15@gmail.com"
     ><img
