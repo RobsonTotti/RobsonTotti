@@ -1,12 +1,14 @@
-<div align="left" dir="auto">
+###### Since august 2022
+<div align="left" dir="auto" >
   <a href="https://wakatime.com/@99ddd934-bce9-4c7c-992d-a3f2d1a1b4c3">
     <img
       src="https://wakatime.com/badge/user/99ddd934-bce9-4c7c-992d-a3f2d1a1b4c3.svg"
       alt="Total time coded since Aug 15 2022"
     />
   </a>
+  </br>
 </div>
-
+</br>
 <div align="left" dir="auto">
   <a href="https://github.com/RobsonTotti">
     <img
