@@ -6,9 +6,12 @@
       alt="Total time coded since Aug 15 2022"
     />
   </a>
-  </br>
 </div>
+
+
+##  <h3 align="left"></h3>
 </br>
+
 <div align="left" dir="auto">
   <a href="https://github.com/RobsonTotti">
     <img
