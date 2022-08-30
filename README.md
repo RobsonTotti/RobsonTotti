@@ -29,6 +29,12 @@
 
 ##  <h3 align="left">Repositories</h3>
   <p align="left">
+    <a href="https://github.com/RobsonTotti/password-generator">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonTotti&repo=password-generator"
+      />
+    </a>
     <a href="https://github.com/RobsonTotti/lorem-ipsum-generator">
       <img
         align="center"
