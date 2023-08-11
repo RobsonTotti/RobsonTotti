@@ -13,12 +13,12 @@
 </br>
 
 <div align="left" dir="auto">
-  <a href="https://github.com/RobsonTotti">
+<!--   <a href="https://github.com/RobsonTotti">
     <img
       align="center"
       height="200em"
       src="https://github-readme-stats.vercel.app/api?username=RobsonTotti&count_private=true&show_icons=true&theme=tokyonight"
-    />
+    /> -->
     <img
       align="center"
       height="200em"
