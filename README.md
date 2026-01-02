@@ -3,7 +3,6 @@
 Sou um desenvolvedor de software com foco em soluções eficientes, código bem estruturado e automação de processos.  
 Experiência no desenvolvimento de aplicações web e mobile, integração de sistemas, suporte a infraestrutura e atuação como **DBA**, com foco em administração, performance e integridade de dados.
 
----
 
 
 ## Atividade de desenvolvimento
@@ -18,7 +17,6 @@ Experiência no desenvolvimento de aplicações web e mobile, integração de si
   </a>
 </div>
 
----
 
 ## Competências técnicas
 
